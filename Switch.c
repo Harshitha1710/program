@@ -10,16 +10,16 @@ int main()
 			printf("Your choice is Pizza,rs 239");
 			break;
 		case 2 :
-			printf("Your choice is Pizza,rs 129");
+			printf("Your choice is Burger,rs 129");
 			break;
 		case 3 :
-		    printf("Your choice is Pizza,rs 179");
+		    printf("Your choice is Pasta,rs 179");
 			break;	
 		case 4 :
-		    printf("Your choice is Pizza,rs 99");
+		    printf("Your choice is FrenchFires,rs 99");
 			break;
 		case 5 :
-		    printf("Your choice is Pizza,rs 149");
+		    printf("Your choice is Sandwich,rs 149");
 			break;	
 		default : printf("Invalid choice");	
 	
